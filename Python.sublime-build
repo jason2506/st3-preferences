@@ -1,0 +1,11 @@
+{
+	"cmd": ["python", "-u", "$file"],
+	"selector": "source.python",
+	"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+	"working_dir": "$file_dir",
+	"env":
+	{
+		"LANG": "zh_TW.UTF-8",
+		"PYTHONIOENCODING": "UTF-8"
+	}
+}

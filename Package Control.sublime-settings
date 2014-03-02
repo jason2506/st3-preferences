@@ -1,0 +1,21 @@
+{
+	"installed_packages":
+	[
+		"BracketHighlighter",
+		"CTags",
+		"Cython",
+		"EncodingHelper",
+		"GitGutter",
+		"HTML5",
+		"Jinja2",
+		"LaTeXTools",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-cppcheck",
+		"SublimeLinter-csslint",
+		"SublimeLinter-flake8",
+		"SublimeLinter-jshint"
+	]
+}

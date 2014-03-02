@@ -1,0 +1,21 @@
+{
+	"color_scheme": "Packages/User/Monokai Bright (SL).tmTheme",
+	"default_extend_env":
+	{
+	},
+	"detect_slow_plugins": false,
+	"draw_white_space": "all",
+	"font_size": 14.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_bottom": 2,
+	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80
+	],
+	"translate_tabs_to_spaces": true
+}
